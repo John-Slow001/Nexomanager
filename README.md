@@ -1,2 +1,1 @@
-# Nexomanager
-NEXO MANAGER
+nexo_v1
